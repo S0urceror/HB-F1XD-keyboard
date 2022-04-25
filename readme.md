@@ -14,3 +14,9 @@ This is a non-commercial license. If you wish to license this commercially pleas
 The PCB and schematics are made for KiCAD. In KiCAD you can generate the Gerber files and send them to your PCB manufacturer.
 
 There is also an Afinity Designer file containing the scans of the original membrane.
+
+## Components
+* 1x PCB - max 0,6mm thickness to fit in mainboard connector
+* 1x Molex FFC Jumper Cable, 0.5mm Pitch, 76mm Cable Length
+* 2x Molex, Easy-On, 54104 0.5mm Pitch 30 Way Right Angle Female FPC Connector, ZIF Top Contact
+
