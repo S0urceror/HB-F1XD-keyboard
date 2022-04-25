@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name mitsumi)(type KiCad)(uri ${KIPRJMOD}/mitsumi)(options "")(descr ""))
+)
