@@ -9,3 +9,8 @@ As a result I painstakingly created a new PCB that is compatible with the old on
 After building one and selling the initial 8 boards I got break even. Now I am opening up my design for everyone to download, change for personal use only.
 
 This is a non-commercial license. If you wish to license this commercially please drop me a line at sourceror_at_neximus_dot_com.
+
+## Files
+The PCB and schematics are made for KiCAD. In KiCAD you can generate the Gerber files and send them to your PCB manufacturer.
+
+There is also an Afinity Designer file containing the scans of the original membrane.
